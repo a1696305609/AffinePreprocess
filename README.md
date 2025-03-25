@@ -1,7 +1,7 @@
 # AffinePreprocess
 A C++ TensorRt preprocess of yolov5 and middle crop
 ---
-This is a test project when I am depolying Yolov5  use c++, cuda, TensorRT
+This is a test project when I am deploying Yolov5  use c++, cuda, TensorRT
 
 ## My Enviroment
 Ubuntu24.04
